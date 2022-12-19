@@ -29,12 +29,12 @@ Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo conve
 Ejecución de programa.
 
 1 Seleccionar una opción
-![Captura desde 2022-12-19 18-57-10](https://user-images.githubusercontent.com/54158037/208535681-9463f40b-e08f-41b4-9d05-77d1fc1dec05.png)
+
+![Captura desde 2022-12-19 19-05-52](https://user-images.githubusercontent.com/54158037/208535692-6d4b4cb7-988e-48e8-9946-73b7be29cf50.png)
 
 
 2 Ingresar el valor que se desea convertir
 
-![Captura desde 2022-12-19 19-05-52](https://user-images.githubusercontent.com/54158037/208535692-6d4b4cb7-988e-48e8-9946-73b7be29cf50.png)
 ![Captura desde 2022-12-19 19-06-09](https://user-images.githubusercontent.com/54158037/208535697-6a43e1e1-c99e-44a3-a523-8e8cea4c63b3.png)
 
 3 Seleccionar el tipo de cambio que desar realizar
