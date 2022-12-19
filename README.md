@@ -26,24 +26,29 @@ Recordando que también debe ser posible convertir inversamente, es decir:
 Extras:
 Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo convertir divisas, ¿tal vez pueda añadir a mi programa otros tipos de conversiones como temperatura por ejemplo?
 
-Ejecucion de programa.
+Ejecución de programa.
 
-1 Seleccionar una opcion
+1 Seleccionar una opción
 ![Captura desde 2022-12-19 18-57-10](https://user-images.githubusercontent.com/54158037/208535681-9463f40b-e08f-41b4-9d05-77d1fc1dec05.png)
-![Captura desde 2022-12-19 18-57-19](https://user-images.githubusercontent.com/54158037/208535687-0793f532-4543-4068-b6c8-1693124719e1.png)
 
-2 Ingresar el valor que se desea convertit
+
+2 Ingresar el valor que se desea convertir
+
 ![Captura desde 2022-12-19 19-05-52](https://user-images.githubusercontent.com/54158037/208535692-6d4b4cb7-988e-48e8-9946-73b7be29cf50.png)
 ![Captura desde 2022-12-19 19-06-09](https://user-images.githubusercontent.com/54158037/208535697-6a43e1e1-c99e-44a3-a523-8e8cea4c63b3.png)
 
 3 Seleccionar el tipo de cambio que desar realizar
+
 ![Captura desde 2022-12-19 19-06-26](https://user-images.githubusercontent.com/54158037/208535705-4e65bd40-eb06-4d26-a63c-0084a535f13e.png)
 
 4 Muestra un mensaje con el valor ingresado y el resultado
+
 ![Captura desde 2022-12-19 19-06-45](https://user-images.githubusercontent.com/54158037/208535713-c62fad2c-5bd5-4859-b126-ef62e6d58269.png)
 
-5 El programa pregunta si desea realizar otra operacion. En el caso de selecionar si, vuelve a pregunta que operacion realizar.
+5 El programa pregunta si desea realizar otra operación. En el caso de selecionar SI, vuelve a preguntar que operacion desea realizar.
+
 ![Captura desde 2022-12-19 19-06-58](https://user-images.githubusercontent.com/54158037/208535719-85a627a3-98a3-456f-8f79-df4bd8be14d4.png)
 
-6 En caso de que no desea realizar otra operacion el programa finaliza 
+6 En caso de seleccionar NO el programa finaliza 
+
 ![Captura desde 2022-12-19 19-07-12](https://user-images.githubusercontent.com/54158037/208535726-ae71ffd1-de0b-4962-9455-e6c8eb1e1128.png)
